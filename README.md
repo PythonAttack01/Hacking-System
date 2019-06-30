@@ -19,8 +19,8 @@ chmod +x install-sb.sh
 # Contact
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 # Authors :
-* facebook  : Imad
-* gmail     : Ha3MrX
-* instagram : thelinuxchoice
-* Twitter   : thelinuxchoice
+* facebook  : Anonymous
+* gmail     : Anonymous
+* instagram : Anonymous
+* Twitter   : Anonymous
 * Hacking-Sytem : Anonymous

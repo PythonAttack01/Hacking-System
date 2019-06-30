@@ -17,10 +17,10 @@ chmod +x install-sb.sh
 * Ubuntu 
 * Kali linux
 # Contact
-* [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
+* [Contact](https://www.facebook.com/ouerghi.belahsan) - Python Attack
 # Authors :
-* facebook  : Anonymous
-* gmail     : Anonymous
-* instagram : Anonymous
-* Twitter   : Anonymous
-* Hacking-Sytem : Anonymous
+* facebook  : Python Attack
+* gmail     : Python Attack
+* instagram : Python Attack
+* Twitter   : Python Attack
+* Hacking-Sytem : Python Attack

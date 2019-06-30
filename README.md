@@ -17,7 +17,7 @@ chmod +x install-sb.sh
 * Ubuntu 
 * Kali linux
 # Contact
-* [Contact](https://www.facebook.com/ouerghi.belahsan) - Python Attack
+* [Contact] - Python Attack
 # Authors :
 * facebook  : Python Attack
 * gmail     : Python Attack
